@@ -1,0 +1,13 @@
+.input-custom {
+    border-color: rgb(52, 135, 190) !important;
+}
+
+.row-custom {
+    top: 10px !important;
+    width: 90%;
+    height: 90% !important;
+    left: 5%;
+}
+#render2{
+    text-align: center;
+}
